@@ -51,6 +51,5 @@ class YvanBrito {
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]

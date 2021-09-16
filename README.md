@@ -7,7 +7,7 @@ Aqui vocẽ vai encontrar algumas aplicações onde testo algo novo que aprendi,
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-class **YvanBrito** {
+class YvanBrito {
   constructor() {
    this.name = "Yvan Brito";
    this.acknowledgements = "Engenheiro de Software";

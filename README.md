@@ -41,7 +41,7 @@ class YvanBrito {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yvanbrito&show_icons=true&theme=dracula&line_height=27" alt="YvanBrito github stats"/>
 </a>
 
-[website]: https://yvanbrito.com/
+[website]: http://yvanbrito.com/
 [twitter]: https://twitter.com/britoyvan
 [instagram]: https://www.instagram.com/yvanpsbrito/
 [linkedin]: https://www.linkedin.com/in/yvan-brito-70342ba5/
